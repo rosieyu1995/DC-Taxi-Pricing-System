@@ -15,6 +15,7 @@ As part of the agency’s commitment to encourage innovation in the for-hire veh
 
 ## Project Participants:
 
+- Hsin-Jung(Rosie) Yu
 - Baixue Chen
 - Yaohong Zheng
 - Ho Huang
